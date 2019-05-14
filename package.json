@@ -1,0 +1,26 @@
+{
+  "name": "ESLint Setup",
+  "version": "1.0.0",
+  "description": "My ESlint Configuration that I use in my projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexsemenenko/eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexsemenenko/eslint/issues"
+  },
+  "homepage": "https://github.com/lexsemenenko/eslint#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  }
+}
